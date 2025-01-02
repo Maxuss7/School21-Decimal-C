@@ -38,6 +38,11 @@ To verify that the implementation works as expected, you can run the included te
 ```bash
 $ make test
 ```
+You can also make coverage report:
+```bash
+$ make gcov_report
+$ make lcov_report
+```
 
 #### **4. Include in your project**
 To use the library in your project, include the `s21_decimal.h` header file and link the compiled library.
@@ -66,3 +71,6 @@ Compile and link:
 $ gcc -o main main.c s21_decimal.a
 $ ./main
 ```
+
+#### To clean:
+Run _make clean_ to remove all generated files and restore the directory to a clean state."
