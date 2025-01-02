@@ -24,7 +24,7 @@ A library for high-precision arithmetic implemented in C. It includes support fo
 #### **1. Clone the repository**
 ```bash
 $ git clone https://github.com/yourusername/decimal-c-library.git
-$ cd decimal-c-library/src
+$ cd Decimal-c/src
 ```
 
 #### **2. Build the library**
