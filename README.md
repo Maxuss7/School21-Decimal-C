@@ -28,7 +28,7 @@ $ cd decimal-c-library/src
 ```
 
 #### **2. Build the library**
-Make sure you have a C compiler installed (e.g., GCC or Clang). Then run:
+Make sure you have a C compiler installed (GCC). Then run:
 ```bash
 $ make s21_decimal.a
 ```
